@@ -17,18 +17,9 @@
  </div>
 
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/D1st3f/D1st3f/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
 
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-<a href="https://linkedin.com/in/dmutro-purig-169885245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dmutro-purig-169885245" height="30" width="40" /></a>
-<a href="https://instagram.com/d1st3f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d1st3f" height="30" width="40" /></a>
-</p>
+
+
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -44,4 +35,13 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=d1st3f&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-<br/><br/>
+
+<h2 align="center">Connect with me:</h2>
+<p align="center">
+<a href="https://linkedin.com/in/dmutro-purig-169885245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dmutro-purig-169885245" height="30" width="40" /></a>
+<a href="https://instagram.com/d1st3f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d1st3f" height="30" width="40" /></a>
+</p>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
