@@ -41,7 +41,3 @@
 <a href="https://linkedin.com/in/dmutro-purig-169885245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dmutro-purig-169885245" height="30" width="40" /></a>
 <a href="https://instagram.com/d1st3f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d1st3f" height="30" width="40" /></a>
 </p>
-<br/>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
